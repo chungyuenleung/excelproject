@@ -10,7 +10,7 @@
 3.Conducted a comparative analysis of these connections among other London airports.<br>
 
 **Result :**<br>
-1.Definined the strategic objectives of LHR, including runway and terminal expansion.
+1.Definined the strategic objectives of LHR, including runway and terminal expansion.<br>
 2.Evaluated the potential environmental impacts of such development. And proposed data-driven action plans aimed at mitigating CO2 emissions while promoting sustainable growth.<br>
 Database: [Heathrow-Monthly-Traffic-Statistics](https://github.com/chungyuenleung/excelproject/blob/main/Nov-21-Heathrow-Monthly-Traffic-Statistics.xlsx) <br>
 Tools: Pivot Chart, Excel, Power Query <br>
